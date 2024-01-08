@@ -7,7 +7,7 @@
   "websites": [
     {
       "url": "https://shiny.data.paritytech.io/ ",
-      "duration": 20
+      "duration": 10
     },
     {
       "url": "https://polkadot.js.org/apps/#/explorer",
@@ -23,14 +23,6 @@
     },
     {
       "url": "https://polkadot.subscan.io/xcm_dashboard",
-      "duration": 8
-    },
-    {
-      "url": "https://www.google.com/",
-      "duration": 8
-    },
-    {
-      "url": "https://guide.kusama.network/docs/learn-polkadot-opengov/",
       "duration": 8
     }
   ]
