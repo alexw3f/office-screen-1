@@ -28,6 +28,10 @@
     {
       "url": "https://www.google.com/",
       "duration": 8
+    },
+    {
+      "url": "https://guide.kusama.network/docs/learn-polkadot-opengov/",
+      "duration": 8
     }
   ]
 }
