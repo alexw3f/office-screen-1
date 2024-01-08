@@ -24,6 +24,10 @@
     {
       "url": "https://polkadot.subscan.io/xcm_dashboard",
       "duration": 8
+    },
+    {
+      "url": "https://www.google.com/",
+      "duration": 8
     }
   ]
 }
