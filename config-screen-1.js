@@ -6,7 +6,7 @@
   "closeExistingTabs": true,
   "websites": [
     {
-      "url": "https://shiny.data.paritytech.io/ ",
+      "url": "https://google.com",
       "duration": 10
     },
     {
