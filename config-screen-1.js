@@ -6,7 +6,7 @@
   "closeExistingTabs": true,
   "websites": [
     {
-      "url": "https://metabase.data.paritytech.io/auth/login?redirect=%2Fdashboard%2F132-transfers-dashboard%3Frelative_date%3Dpast30days",
+      "url": "https://metabase.data.paritytech.io/dashboard/132-transfers-dashboard?relative_date=past30days",
       "duration": 30
     },
     {
