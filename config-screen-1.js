@@ -10,10 +10,6 @@
       "duration": 30
     },
     {
-      "url": "https://shiny.data.paritytech.io/",
-      "duration": 30
-    },
-    {
       "url": "https://greenpolkadot.io/",
       "duration": 30
     }
