@@ -6,24 +6,16 @@
   "closeExistingTabs": true,
   "websites": [
     {
-      "url": "https://google.com",
-      "duration": 10
+      "url": "https://metabase.data.paritytech.io/auth/login?redirect=%2Fdashboard%2F132-transfers-dashboard%3Frelative_date%3Dpast30days",
+      "duration": 30
     },
     {
-      "url": "https://polkadot.js.org/apps/#/explorer",
-      "duration": 8
+      "url": "https://shiny.data.paritytech.io/",
+      "duration": 30
     },
     {
-      "url": "https://polkadot.js.org/apps/#/explorer/forks",
-      "duration": 8
-    },
-    {
-      "url": "https://telemetry.polkadot.io/#/0x91b171bb158e2d3848fa23a9f1c25182fb8e20313b2c1eb49219da7a70ce90c3",
-      "duration": 8
-    },
-    {
-      "url": "https://polkadot.subscan.io/xcm_dashboard",
-      "duration": 8
+      "url": "https://greenpolkadot.io/",
+      "duration": 30
     }
   ]
 }
