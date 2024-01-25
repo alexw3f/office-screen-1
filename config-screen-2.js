@@ -6,7 +6,7 @@
   "closeExistingTabs": true,
   "websites": [
     {
-      "url": "https://polkadot.js.org/apps/#/explorer",
+      "url": "https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Frpc-polkadot.luckyfriday.io#/explorer",
       "duration": 30
     },
     {
