@@ -10,7 +10,7 @@
       "duration": 30
     },
     {
-      "url": "https://greenpolkadot.io/",
+      "url": "https://metabase.data.paritytech.io/dashboard/173-website-analytics-dashboard?tab=66-general-overview&date_filter=past1months~&domain=polkadot.network",
       "duration": 30
     }
   ]
